@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>pl.xdevices</groupId>
 	<artifactId>discovery</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1-snapshot</version>
 	<name>discovery</name>
 	<description>This is our xdevices discovery microservice</description>
 
